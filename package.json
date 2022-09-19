@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mitchel0058/UVENode/issues"
   },
-  "homepage": "https://github.com/Mitchel0058/UVENode#readme"
+  "homepage": "https://github.com/Mitchel0058/UVENode#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
 }
