@@ -10,6 +10,12 @@ if(0 === true){
   })
 }
 
+if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
