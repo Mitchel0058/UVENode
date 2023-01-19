@@ -14,6 +14,72 @@ if(0 === true){
   app.get('/', (req, res) => {
     res.sendFile('index.html', {root: "public"})
   })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
+}
+
+if(0 === true){
+  app.get('/', (req, res) => {
+    res.sendFile('index.html', {root: "public"})
+  })
 }
 
 app.listen(port, () => {
