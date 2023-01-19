@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Mitchel0058/UVENode#readme",
   "devDependencies": {
     "jest": "^29.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.4.0"
   }
 }
