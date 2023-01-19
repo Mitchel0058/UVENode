@@ -4,83 +4,9 @@ const port = process.env.PORT || 3000
 
 app.use(express.static("public"));
 
-if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}
-
-if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}
-
-if(0 === true){
-  app.get('/', (req, res) => {
-    res.sendFile('index.html', {root: "public"})
-  })
-}
+app.get('/', (req, res) => {
+  res.sendFile('index.html', { root: "public" })
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
