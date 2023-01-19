@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/Mitchel0058/UVENode#readme",
   "devDependencies": {
+    "eslint": "^8.32.0",
     "jest": "^29.0.3"
   },
   "dependencies": {
-    "eslint": "^8.32.0",
     "express": "^4.18.2",
     "node": "^19.4.0"
   }
